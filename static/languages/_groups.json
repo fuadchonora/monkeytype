@@ -145,6 +145,10 @@
     "languages": ["malay"]
   },
   {
+    "name": "malayalam",
+    "languages": ["malayalam"]
+  },
+  {
     "name": "romanian",
     "languages": ["romanian"]
   },
